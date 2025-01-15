@@ -1,0 +1,88 @@
+{
+  "knowledge_base": [
+    {
+      "condition": "Anxiety Disorders",
+      "description": "Anxiety is when you feel really worried, nervous, or on edge most of the time, even when there's no real danger. It's like having a constant feeling of unease or fear.",
+      "examples": [
+        "Feeling anxious about taking a test",
+        "Going to a party",
+        "Speaking in front of a group"
+      ]
+    },
+    {
+      "condition": "Depressive Disorders",
+      "description": "Depression is more than just feeling sad—it's feeling sad, hopeless, or empty for a long time. It can affect your energy levels and appetite.",
+      "examples": [
+        "Losing interest in hobbies",
+        "Having trouble sleeping",
+        "Feeling tired all the time"
+      ]
+    },
+    {
+      "condition": "Bipolar Disorders",
+      "description": "Bipolar disorder involves extreme mood swings, from feeling really high and energetic (mania or hypomania) to feeling really low and sad (depression).",
+      "examples": [
+        "Feeling like you have endless energy (mania)",
+        "Struggling to get out of bed (depression)"
+      ]
+    },
+    {
+      "condition": "Obsessive-Compulsive Disorder (OCD)",
+      "description": "OCD involves having unwanted thoughts (obsessions) and compulsive behaviors to make them go away.",
+      "examples": [
+        "Washing hands repeatedly due to fear of germs",
+        "Checking locks repeatedly to make sure they’re secure"
+      ]
+    },
+    {
+      "condition": "Post-Traumatic Stress Disorder (PTSD)",
+      "description": "PTSD develops after experiencing or witnessing a traumatic event and can cause flashbacks, nightmares, or feeling on edge.",
+      "examples": [
+        "Veterans experiencing PTSD after combat",
+        "Nightmares or being startled by loud noises"
+      ]
+    },
+    {
+      "condition": "Schizophrenia Spectrum Disorders",
+      "description": "Schizophrenia is a serious mental illness that affects how a person thinks, feels, and behaves. People with schizophrenia may experience hallucinations or delusions.",
+      "examples": [
+        "Hearing voices that aren’t there",
+        "Believing you are being watched or controlled"
+      ]
+    },
+    {
+      "condition": "Eating Disorders",
+      "description": "Eating disorders involve unhealthy behaviors towards food and weight that affect physical and mental health.",
+      "examples": [
+        "Anorexia nervosa: Restricting food intake",
+        "Bulimia nervosa: Binge-eating and purging",
+        "Binge-eating disorder: Eating large amounts of food in a short time"
+      ]
+    },
+    {
+      "condition": "Attention-Deficit/Hyperactivity Disorder (ADHD)",
+      "description": "ADHD affects attention, impulse control, and activity levels, making it difficult to focus or sit still.",
+      "examples": [
+        "Having trouble paying attention in school",
+        "Struggling to stay organized"
+      ]
+    },
+    {
+      "condition": "Personality Disorders",
+      "description": "Personality disorders involve long-term patterns of thinking and behaving that cause problems in relationships and daily life.",
+      "examples": [
+        "Borderline personality disorder: Unstable relationships and impulsivity",
+        "Narcissistic personality disorder: Exaggerated sense of self-importance",
+        "Antisocial personality disorder: Disregard for others' rights"
+      ]
+    },
+    {
+      "condition": "Substance Use Disorders",
+      "description": "Substance use disorders involve continued use of drugs or alcohol despite negative consequences.",
+      "examples": [
+        "Continuing to drink heavily even after losing a job",
+        "Using drugs despite health or legal issues"
+      ]
+    }
+  ]
+}
