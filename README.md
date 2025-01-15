@@ -33,7 +33,7 @@
 
 ## **How It Works**
 
-1. **User Input**: The chatbot initiates the conversation by asking users a series of questions about their mental health or concerns.
+1. **User Input**: The chatbot initiates the conversation by asking users a series of questions about their mental health or concerns. You can interact via typing or speaking for a hands-free experience.
    
 2. **Problem Diagnosis**: Based on the answers, the bot classifies the user’s emotional or mental state and assesses what support might be needed.
    
