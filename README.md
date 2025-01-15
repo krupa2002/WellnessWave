@@ -27,6 +27,7 @@
 - **Mental Health Quiz**: Assesses users' emotional states (e.g., happy, sad, anxious) through a set of quiz questions.
 - Offers curated suggestions for mental health cures based on user input.
 - Seamlessly integrated conversational flow for a user-friendly experience.
+- WellnessWave also supports voice input, allowing users to speak their responses for a hands-free, interactive experience.
 
 ---
 
